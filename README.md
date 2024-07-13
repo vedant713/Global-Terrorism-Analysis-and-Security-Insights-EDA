@@ -3,7 +3,7 @@
 This project aims to perform an Exploratory Data Analysis (EDA) on a dataset related to global terrorism incidents. The goal is to identify terrorism hot zones and derive security insights that can aid in formulating counter-terrorism strategies.
 
 ## Dataset
-The dataset used for this analysis is the Global Terrorism Database (GTD). It includes information on terrorist events around the world from 1970 through 2017. Each record includes information about the event, such as the date, location, type of attack, weapon used, and casualties.
+The [Dataset](https://bit.ly/2TK5Xn5) used for this analysis is the Global Terrorism Database (GTD). It includes information on terrorist events around the world from 1970 through 2017. Each record includes information about the event, such as the date, location, type of attack, weapon used, and casualties.
 
 ## Installation
 
