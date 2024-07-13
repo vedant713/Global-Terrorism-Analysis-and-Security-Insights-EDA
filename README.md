@@ -9,8 +9,8 @@ The dataset used for this analysis is the Global Terrorism Database (GTD). It in
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/global-terrorism-analysis.git
-    cd global-terrorism-analysis
+    git clone https://github.com/yourusername/global-terrorism-analysis-eda.git
+    cd global-terrorism-analysis-eda
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
