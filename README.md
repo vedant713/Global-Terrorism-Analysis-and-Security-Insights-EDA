@@ -9,8 +9,8 @@ The [Dataset](https://bit.ly/2TK5Xn5) used for this analysis is the Global Terro
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/global-terrorism-analysis-eda.git
-    cd global-terrorism-analysis-eda
+    git clone https://github.com/vedant713/Global-Terrorism-Analysis-and-Security-Insights-EDA.git
+    cd Global-Terrorism-Analysis-and-Security-Insights-EDA
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
